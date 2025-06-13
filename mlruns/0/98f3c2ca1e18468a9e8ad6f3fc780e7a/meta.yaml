@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/UDAY/Network%20Security/mlruns/0/98f3c2ca1e18468a9e8ad6f3fc780e7a/artifacts
+end_time: 1749853484504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98f3c2ca1e18468a9e8ad6f3fc780e7a
+run_name: inquisitive-lynx-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749853469303
+status: 3
+tags: []
+user_id: uday2

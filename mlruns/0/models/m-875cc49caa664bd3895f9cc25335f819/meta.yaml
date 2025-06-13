@@ -1,0 +1,10 @@
+artifact_location: file:///C:/UDAY/Network%20Security/mlruns/0/models/m-875cc49caa664bd3895f9cc25335f819/artifacts
+creation_timestamp: 1749853484924
+experiment_id: '0'
+last_updated_timestamp: 1749853492186
+model_id: m-875cc49caa664bd3895f9cc25335f819
+model_type: null
+name: model
+source_run_id: 8a01d490a8194e3d82640c1681e5106b
+status: 2
+status_message: null
