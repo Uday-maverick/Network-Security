@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/UDAY/Network%20Security/mlruns/0/6aee7d60e3c549f8952dde5d191a55c2/artifacts
+end_time: 1749887847998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aee7d60e3c549f8952dde5d191a55c2
+run_name: thundering-goat-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749887844353
+status: 3
+tags: []
+user_id: uday2

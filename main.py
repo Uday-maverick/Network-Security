@@ -40,7 +40,7 @@ if __name__=='__main__':
         model_trainer_artifact=model_trainer.initiate_model_trainer()
 
         logging.info("Model Training artifact created")
-        #DataIngestion = DataIngestion()
+        DataIngestion = DataIngestion()
         
         
         

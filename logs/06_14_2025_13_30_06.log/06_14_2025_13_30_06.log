@@ -1,0 +1,6 @@
+[2025-06-14 13:30:11,369] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-06-14 13:30:11,374] 107 dagshub - INFO - Accessing as Uday-maverick
+[2025-06-14 13:30:12,169] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Uday-maverick/Network-Security "HTTP/1.1 200 OK"
+[2025-06-14 13:30:12,958] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-06-14 13:30:12,960] 107 dagshub - INFO - Initialized MLflow to track repo "Uday-maverick/Network-Security"
+[2025-06-14 13:30:12,960] 107 dagshub - INFO - Repository Uday-maverick/Network-Security initialized!
